@@ -1,0 +1,15 @@
+{
+  "name": "git-extended",
+  "version": "1.0.0",
+  "description": "Git repo for educational purposes",
+  "main": "index.js",
+  "keywords": [],
+  "repository":"git@github.com:sshbna/git-extended.git"
+  "author": "Shubina Sofia 1132232885@pfur.ru",
+  "license": "CC-BY-4.0"
+  "config":{
+	"commitizen":{
+		"path":"cz-conventional-changelog"
+}
+}
+}
